@@ -35,11 +35,6 @@ Además, el propio concepto del juego refuerza esta idea: un mundo roto que nece
 
 En definitiva, Death Stranding muestra cómo el software puede mezclar cine, videojuego, red social y sistema colaborativo, pero no simplemente sumándolos, sino transformándolos. Es un ejemplo claro de hibridación contemporánea donde el software “toma el mando” y redefine cómo jugamos, cómo sentimos y cómo nos relacionamos culturalmente con otros.
 
-**Recursos**
-- Web oficial del juego  
-- Entrevistas con Hideo Kojima  
-- Artículos sobre su sistema de juego y conexión social
-
 ---
 
 ## Caso 2: Stray  
@@ -59,19 +54,28 @@ La hibridación también aparece en cómo combina lo lúdico con lo contemplativ
 
 Si lo miramos “con las gafas de Manovich”, Stray demuestra cómo el software redefine la narrativa: ya no se trata solo de contar historias de forma lineal, sino de diseñar mundos interactivos que funcionan como bases de datos emocionales. La ciudad es a la vez espacio, interfaz y relato. La hibridación entre cine, videojuego y simulación no solo mezcla medios, sino que crea una forma cultural nueva, más experiencial, más sensible y profundamente mediada por el software.
 
-
-
-
-**Recursos**
-- Página de Steam del juego Stray https://store.steampowered.com/app/1332010/Stray/?l=spanish
-- Making of del estudio  https://annapurnainteractive.com/en/games/stray
-- Artículos sobre diseño de mundo y narrativa ambiental https://stray.fandom.com/es/wiki/Stray
-
 ---
 
 ## Conclusión
 
 Ambos casos muestran cómo el software ha pasado de ser una herramienta técnica a convertirse en el eje cultural que organiza la experiencia estética. Death Stranding y Stray demuestran que la hibridación ya no consiste solo en mezclar medios, sino en generar nuevas lógicas culturales basadas en sistemas, datos, interacción y colaboración. Tal como plantea Manovich, el software toma el mando y redefine cómo contamos, compartimos y experimentamos historias.
+
+---
+
+## Referencias y Bibliografía
+
+### Referencias Generales
+- Manovich, Lev. (2013). **El Software toma el mando**. Barcelona: Editorial UOC.
+
+### Referencias Caso 1: *Death Stranding*
+- Web oficial del juego: https://www.kojimaproductions.jp/en/death-stranding-dc  
+- Entrevista con Hideo Kojima: https://www.youtube.com/watch?v=5i_duCX4FIY  
+- Artículo sobre el Social Strand System: https://deathstranding.fandom.com/es/wiki/Social_Strand_System  
+
+### Referencias Caso 2: *Stray*
+- Página oficial de Steam: https://store.steampowered.com/app/1332010/Stray/?l=spanish  
+- Making of del estudio: https://annapurnainteractive.com/en/games/stray  
+- Artículo sobre diseño de mundo y narrativa ambiental: https://stray.fandom.com/es/wiki/Stray  
 
 ---
 
